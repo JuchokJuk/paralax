@@ -128,7 +128,7 @@
 	.page {
 		overflow: hidden;
 		height: 100%;
-		background: url('./background.png') no-repeat center center;
+		background: url('background.png') no-repeat center center;
 		background-size: cover;
 
 		.content {
